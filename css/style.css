@@ -1,0 +1,28 @@
+.fs-32{
+    font-size: 32px;
+}
+.fs8 {
+    font-size: 14px;
+    font-family: inherit;
+}
+
+.sc {
+    letter-spacing: -0.05em;
+    line-height: 95px;
+    line-height: 95px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+    color: black
+}
+
+.font {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+::-webkit-scrollbar{
+      width: 20px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: gray;
+    
+}
